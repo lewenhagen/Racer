@@ -1,4 +1,4 @@
 Racer
 =====
 
-projkect in javascript course
+project in javascript course
