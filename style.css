@@ -1,0 +1,62 @@
+body{
+	background-color: black;
+	color: white;
+	font-family: tahoma;
+}
+#header{
+	color: green;
+}
+#gameArea{
+	height: 600px;
+	width: 1200px;
+	border: 2px double orange;
+	margin: 0 auto;
+}
+#canvas{
+	float:left;
+}
+#info{
+	width: 350px;
+	margin-left: 10px;
+	float: left;
+	padding: 10px;
+	
+}
+#maininfo{
+	position: relative;
+	left: 10px;
+	top: 170px;
+	border-top: 1px solid orange;
+	padding-top: 10px;
+	margin-bottom: 0px;
+}
+#lap{
+	color: white;
+	min-height: 60px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-bottom: 1px solid orange;
+}
+
+#resultDiv{
+	min-height: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	
+}
+#buttons{
+color: green;
+	min-height: 50px;
+	border-bottom: 1px solid orange;
+	padding-bottom: 10px;
+	
+}
+#soundInfo{
+	color: orange;
+}
+#timeDiv{
+	color: orange;
+	border-bottom: 1px solid orange;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
